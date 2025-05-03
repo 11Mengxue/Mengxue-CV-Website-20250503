@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Blog</title>
+      <link>http://localhost:1313/post/</link>
+    </image>
+    
+    <item>
+      <title>🎓 Awarded Associate Fellow of the Higher Education Academy (AFHEA)</title>
+      <link>http://localhost:1313/post/02-afhea/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/02-afhea/</guid>
+      <description>&lt;p&gt;In January 2024, I was recognised as an Associate Fellow of the Higher Education Academy (AFHEA) by Advance HE. This professional recognition reflects my experience supporting teaching and learning across undergraduate and postgraduate modules at the University of Sheffield, particularly in architecture, planning, and GIS-related subjects.&lt;/p&gt;
+&lt;p&gt;The award demonstrates my commitment to effective, student-focused teaching and aligns with the UK Professional Standards Framework (UKPSF).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🏆 Awarded the PGR Publication Scholarship</title>
+      <link>http://localhost:1313/post/01-publication-scholorship/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/01-publication-scholorship/</guid>
+      <description>&lt;p&gt;In July 2024, I was awarded the University of Sheffield’s competitive PGR Publication Scholarship, a prestigious award recognizing impactful doctoral research. My application was reviewed by a panel of Faculty Directors of Postgraduate Research and selected for its significance and contribution to the field.&lt;/p&gt;
+&lt;p&gt;The scholarship supports the completion and publication of my PhD research, which investigates how urban greenery influences PM2.5 concentrations using a novel Multi-view Urban Vegetation Index (MvUVI) and ultra-high-resolution spatiotemporal data analysis. &lt;strong&gt;I was the first recipient from the School of Architecture and Landscape to receive this award.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This support enables me to focus on preparing multiple journal submissions to share the findings of my work on vegetation, urban form, and air pollution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🖼️ Awarded Best Visual Skills – ARC Research Poster Competition</title>
+      <link>http://localhost:1313/post/03-post-awarded/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/03-post-awarded/</guid>
+      <description>&lt;p&gt;In May 2023, I received the Best Visual Skills – Postgraduate Researcher Year 2 award at the ARC Research Poster Competition, hosted by the Department of Architecture, University of Sheffield. The poster presented an overview of my PhD research outline, originally developed for my Confirmation Review, highlighting the relationship between urban vegetation and PM2.5 distribution.&lt;/p&gt;
+&lt;p&gt;This recognition reflects both the clarity of my research communication and my approach to data-driven visual storytelling in environmental research.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;http://localhost:1313/post/03-post-awarded/my_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

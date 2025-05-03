@@ -1,0 +1,9 @@
+/* 取消技能模块中所有文字的全大写 */
+.blox-skill * {
+    text-transform: none !important;
+  }
+  
+  /* 让 Hobbies 区块（右栏）靠顶部对齐，而不是垂直居中 */
+  .blox-skill .columns-2 .column {
+    justify-content: flex-start !important;
+  }
