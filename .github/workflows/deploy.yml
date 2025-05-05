@@ -16,7 +16,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.135.0'  # 根据你用的 Hugo 版本修改
+          hugo-version: '0.135.0'
 
       - name: Build
         run: hugo --minify
@@ -26,4 +26,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          publish_branch: gh-pages           # ← 新增，明确目标分支
           cname: mengxueyao.com
+          force_orphan: true                 # ← 新增，修复 git push 报错 128 的关键！
