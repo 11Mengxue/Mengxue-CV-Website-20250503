@@ -20,8 +20,3 @@ In May 2023, I received the Best Visual Skills – Postgraduate Researcher Year 
 This recognition reflects both the clarity of my research communication and my approach to data-driven visual storytelling in environmental research.
 
 
-## Video
-
-{{< video src="my_video.mp4" controls="yes" >}}
-
-
