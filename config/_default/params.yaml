@@ -13,8 +13,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    org_name: 'Mengxue Yao'
+    title: 'Mengxue Yao – Academic Website'
+    description: 'Mengxue Yao is a PhD candidate specializing in air pollution prediction, environmental data analysis, and data-driven urban planning.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -35,7 +36,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Mengxue Yao"
 
 # Site footer
 footer:
