@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/academic/</link>
-      <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <title>Academic | Mengxue Yao – Academic Profile</title>
+    <link>http://localhost:1313/tags/academic/</link>
+      <atom:link href="http://localhost:1313/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Academic</title>
-      <link>https://example.com/tags/academic/</link>
+      <link>http://localhost:1313/tags/academic/</link>
     </image>
     
     <item>
       <title>🏆 Awarded the PGR Publication Scholarship</title>
-      <link>https://example.com/post/01-publication-scholorship/</link>
+      <link>http://localhost:1313/post/01-publication-scholorship/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/01-publication-scholorship/</guid>
+      <guid>http://localhost:1313/post/01-publication-scholorship/</guid>
       <description>&lt;p&gt;In July 2024, I was awarded the University of Sheffield’s competitive PGR Publication Scholarship, a prestigious award recognizing impactful doctoral research. My application was reviewed by a panel of Faculty Directors of Postgraduate Research and selected for its significance and contribution to the field.&lt;/p&gt;
 &lt;p&gt;The scholarship supports the completion and publication of my PhD research, which investigates how urban greenery influences PM2.5 concentrations using a novel Multi-view Urban Vegetation Index (MvUVI) and ultra-high-resolution spatiotemporal data analysis. &lt;strong&gt;I was the first recipient from the School of Architecture and Landscape to receive this award.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This support enables me to focus on preparing multiple journal submissions to share the findings of my work on vegetation, urban form, and air pollution.&lt;/p&gt;
