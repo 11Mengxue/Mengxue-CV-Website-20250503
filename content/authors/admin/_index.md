@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD, AFHEA
+role: PhD, FHEA
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -109,7 +109,7 @@ work:
     date_end: ''
     summary: |2-
 
-      Since September 2022, I have worked as a Graduate Teaching Assistant at the University of Sheffield, contributing to teaching across the School of Geography and Planning and the School of Architecture and Landscape. I am recognised as an Associate Fellow of the Higher Education Academy (**AFHEA**) and am currently pursuing Fellowship status (FHEA), with the outcome expected in May 2025.
+      Since September 2022, I have worked as a Graduate Teaching Assistant at the University of Sheffield, contributing to teaching across the School of Geography and Planning and the School of Architecture and Landscape. I am recognised as a Fellow of the Higher Education Academy (**FHEA**), a recognition of my professional development and reflective practice in higher education teaching.
 
       - **ARC605** (Doctoral Training, 2022-23, ~20 students, PhD level):
       Designed and delivered a specialist session to support the new PhD cohort through the confirmation review process.

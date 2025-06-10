@@ -1,16 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mengxue Yao – Academic Profile</title>
+    <title>Mengxue Yao Academic Profile</title>
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mengxue Yao – Academic Profile</description>
+    <description>Mengxue Yao Academic Profile</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
-      <title>Mengxue Yao – Academic Profile</title>
+      <title>Mengxue Yao Academic Profile</title>
       <link>http://localhost:1313/</link>
     </image>
+    
+    <item>
+      <title>🎓 PhD Viva Passed with Minor Corrections</title>
+      <link>http://localhost:1313/post/05-viva/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/05-viva/</guid>
+      <description>&lt;p&gt;On 30 May 2025, I successfully passed my PhD viva with &lt;strong&gt;minor corrections&lt;/strong&gt;, marking a significant milestone in my academic journey.&lt;/p&gt;
+&lt;p&gt;This achievement represents the culmination of three and a half years of dedicated research, during which I explored the intersections of urban morphology, air quality, and machine learning. I am sincerely grateful to my supervisor, &lt;strong&gt;Dr Chengzhi Peng&lt;/strong&gt;, and co-supervisor, &lt;strong&gt;Dr Michael Smith&lt;/strong&gt;, for their continuous guidance, encouragement, and support throughout this period.&lt;/p&gt;
+&lt;p&gt;I would also like to thank my viva examiners, &lt;strong&gt;Professor Anil Namdeo&lt;/strong&gt; and &lt;strong&gt;Dr Paul Brindley&lt;/strong&gt;, for their insightful feedback and thoughtful suggestions on the future development of my work.&lt;/p&gt;
+&lt;p&gt;As the next step, I will be preparing my research for publication with the support of the PGR Publication Scholarship. I look forward to sharing these outcomes and continuing to contribute to the field.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎓 Recognised as Fellow of the Higher Education Academy (FHEA)</title>
+      <link>http://localhost:1313/post/04-fhea/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/04-fhea/</guid>
+      <description>&lt;p&gt;In May 2025, I was recognised as a Fellow of the Higher Education Academy (FHEA) by Advance HE. This professional recognition reflects my sustained contribution to higher education teaching and learning, particularly in interdisciplinary modules across architecture, urban planning, and urban data analysis.&lt;/p&gt;
+&lt;p&gt;Building on my earlier recognition as an Associate Fellow (AFHEA), the FHEA status affirms my commitment to inclusive, student-focused, and research-informed teaching practice, aligned with the UK Professional Standards Framework (UKPSF).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Modelling the effects of vegetation and urban form on air quality in real urban environments: A systematic review of measurements, methods, and predictions</title>
@@ -27,7 +49,7 @@
     </item>
     
     <item>
-      <title>🎓 Awarded Associate Fellow of the Higher Education Academy (AFHEA)</title>
+      <title>🎓 Recognised as Associate Fellow of the Higher Education Academy (AFHEA)</title>
       <link>http://localhost:1313/post/02-afhea/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/02-afhea/</guid>

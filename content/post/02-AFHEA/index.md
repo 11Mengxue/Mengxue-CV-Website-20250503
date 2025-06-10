@@ -1,5 +1,5 @@
 ---
-title: 🎓 Awarded Associate Fellow of the Higher Education Academy (AFHEA)
+title: 🎓 Recognised as Associate Fellow of the Higher Education Academy (AFHEA)
 summary: Recognised for my professional practice in higher education teaching and learning support.
 date: 2025-01-17
 
