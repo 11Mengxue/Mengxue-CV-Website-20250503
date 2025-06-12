@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mengxue Yao Academic Profile</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mengxue Yao Academic Profile</description>
+    <title>Mengxue Yao - Academic Profile</title>
+    <link>https://mengxueyao.com/</link>
+      <atom:link href="https://mengxueyao.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mengxue Yao - Academic Profile</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
-      <title>Mengxue Yao Academic Profile</title>
-      <link>http://localhost:1313/</link>
+      <url>https://mengxueyao.com/media/icon_hu7729264130191091259.png</url>
+      <title>Mengxue Yao - Academic Profile</title>
+      <link>https://mengxueyao.com/</link>
     </image>
     
     <item>
       <title>🎓 PhD Viva Passed with Minor Corrections</title>
-      <link>http://localhost:1313/post/05-viva/</link>
+      <link>https://mengxueyao.com/post/05-viva/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/05-viva/</guid>
+      <guid>https://mengxueyao.com/post/05-viva/</guid>
       <description>&lt;p&gt;On 30 May 2025, I successfully passed my PhD viva with &lt;strong&gt;minor corrections&lt;/strong&gt;, marking a significant milestone in my academic journey.&lt;/p&gt;
 &lt;p&gt;This achievement represents the culmination of three and a half years of dedicated research, during which I explored the intersections of urban morphology, air quality, and machine learning. I am sincerely grateful to my supervisor, &lt;strong&gt;Dr Chengzhi Peng&lt;/strong&gt;, and co-supervisor, &lt;strong&gt;Dr Michael Smith&lt;/strong&gt;, for their continuous guidance, encouragement, and support throughout this period.&lt;/p&gt;
 &lt;p&gt;I would also like to thank my viva examiners, &lt;strong&gt;Professor Anil Namdeo&lt;/strong&gt; and &lt;strong&gt;Dr Paul Brindley&lt;/strong&gt;, for their insightful feedback and thoughtful suggestions on the future development of my work.&lt;/p&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>🎓 Recognised as Fellow of the Higher Education Academy (FHEA)</title>
-      <link>http://localhost:1313/post/04-fhea/</link>
+      <link>https://mengxueyao.com/post/04-fhea/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/04-fhea/</guid>
+      <guid>https://mengxueyao.com/post/04-fhea/</guid>
       <description>&lt;p&gt;In May 2025, I was recognised as a Fellow of the Higher Education Academy (FHEA) by Advance HE. This professional recognition reflects my sustained contribution to higher education teaching and learning, particularly in interdisciplinary modules across architecture, urban planning, and urban data analysis.&lt;/p&gt;
 &lt;p&gt;Building on my earlier recognition as an Associate Fellow (AFHEA), the FHEA status affirms my commitment to inclusive, student-focused, and research-informed teaching practice, aligned with the UK Professional Standards Framework (UKPSF).&lt;/p&gt;
 </description>
@@ -36,9 +36,9 @@
     
     <item>
       <title>Modelling the effects of vegetation and urban form on air quality in real urban environments: A systematic review of measurements, methods, and predictions</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
+      <link>https://mengxueyao.com/publication/journal-article/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
+      <guid>https://mengxueyao.com/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -50,9 +50,9 @@
     
     <item>
       <title>🎓 Recognised as Associate Fellow of the Higher Education Academy (AFHEA)</title>
-      <link>http://localhost:1313/post/02-afhea/</link>
+      <link>https://mengxueyao.com/post/02-afhea/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/02-afhea/</guid>
+      <guid>https://mengxueyao.com/post/02-afhea/</guid>
       <description>&lt;p&gt;In January 2024, I was recognised as an Associate Fellow of the Higher Education Academy (AFHEA) by Advance HE. This professional recognition reflects my experience supporting teaching and learning across undergraduate and postgraduate modules at the University of Sheffield, particularly in architecture, planning, and GIS-related subjects.&lt;/p&gt;
 &lt;p&gt;The award demonstrates my commitment to effective, student-focused teaching and aligns with the UK Professional Standards Framework (UKPSF).&lt;/p&gt;
 </description>
@@ -60,9 +60,9 @@
     
     <item>
       <title>🏆 Awarded the PGR Publication Scholarship</title>
-      <link>http://localhost:1313/post/01-publication-scholorship/</link>
+      <link>https://mengxueyao.com/post/01-publication-scholorship/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/01-publication-scholorship/</guid>
+      <guid>https://mengxueyao.com/post/01-publication-scholorship/</guid>
       <description>&lt;p&gt;In July 2024, I was awarded the University of Sheffield’s competitive PGR Publication Scholarship, a prestigious award recognizing impactful doctoral research. My application was reviewed by a panel of Faculty Directors of Postgraduate Research and selected for its significance and contribution to the field.&lt;/p&gt;
 &lt;p&gt;The scholarship supports the completion and publication of my PhD research, which investigates how urban greenery influences PM2.5 concentrations using a novel Multi-view Urban Vegetation Index (MvUVI) and ultra-high-resolution spatiotemporal data analysis. &lt;strong&gt;I was the first recipient from the School of Architecture and Landscape to receive this award.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This support enables me to focus on preparing multiple journal submissions to share the findings of my work on vegetation, urban form, and air pollution.&lt;/p&gt;
@@ -71,17 +71,17 @@
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://mengxueyao.com/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://mengxueyao.com/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling the Effects of Vegetation on Urban Air Quality Based on Multiple Environmental Data Sources</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
+      <link>https://mengxueyao.com/publication/conference-paper/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <guid>https://mengxueyao.com/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -93,41 +93,41 @@
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
+      <link>https://mengxueyao.com/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
+      <guid>https://mengxueyao.com/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
+      <link>https://mengxueyao.com/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
+      <guid>https://mengxueyao.com/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
+      <link>https://mengxueyao.com/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
+      <guid>https://mengxueyao.com/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>https://mengxueyao.com/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>https://mengxueyao.com/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🖼️ Awarded Best Visual Skills – ARC Research Poster Competition</title>
-      <link>http://localhost:1313/post/03-post-awarded/</link>
+      <link>https://mengxueyao.com/post/03-post-awarded/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/03-post-awarded/</guid>
+      <guid>https://mengxueyao.com/post/03-post-awarded/</guid>
       <description>&lt;p&gt;In May 2023, I received the Best Visual Skills – Postgraduate Researcher Year 2 award at the ARC Research Poster Competition, hosted by the Department of Architecture, University of Sheffield. The poster presented an overview of my PhD research outline, originally developed for my Confirmation Review, highlighting the relationship between urban vegetation and PM2.5 distribution.&lt;/p&gt;
 &lt;p&gt;This recognition reflects both the clarity of my research communication and my approach to data-driven visual storytelling in environmental research.&lt;/p&gt;
 </description>
@@ -135,9 +135,9 @@
     
     <item>
       <title> Correlation Between PM2.5 Distribution Field and Green Interface Index in Typical Street Canyon of Harbin</title>
-      <link>http://localhost:1313/publication/journal-article-westchina/</link>
+      <link>https://mengxueyao.com/publication/journal-article-westchina/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article-westchina/</guid>
+      <guid>https://mengxueyao.com/publication/journal-article-westchina/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;

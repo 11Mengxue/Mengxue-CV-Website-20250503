@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AdvanceHE | Mengxue Yao Academic Profile</title>
-    <link>http://localhost:1313/tags/advancehe/</link>
-      <atom:link href="http://localhost:1313/tags/advancehe/index.xml" rel="self" type="application/rss+xml" />
+    <title>AdvanceHE | Mengxue Yao - Academic Profile</title>
+    <link>https://mengxueyao.com/tags/advancehe/</link>
+      <atom:link href="https://mengxueyao.com/tags/advancehe/index.xml" rel="self" type="application/rss+xml" />
     <description>AdvanceHE</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://mengxueyao.com/media/icon_hu7729264130191091259.png</url>
       <title>AdvanceHE</title>
-      <link>http://localhost:1313/tags/advancehe/</link>
+      <link>https://mengxueyao.com/tags/advancehe/</link>
     </image>
     
     <item>
       <title>🎓 PhD Viva Passed with Minor Corrections</title>
-      <link>http://localhost:1313/post/05-viva/</link>
+      <link>https://mengxueyao.com/post/05-viva/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/05-viva/</guid>
+      <guid>https://mengxueyao.com/post/05-viva/</guid>
       <description>&lt;p&gt;On 30 May 2025, I successfully passed my PhD viva with &lt;strong&gt;minor corrections&lt;/strong&gt;, marking a significant milestone in my academic journey.&lt;/p&gt;
 &lt;p&gt;This achievement represents the culmination of three and a half years of dedicated research, during which I explored the intersections of urban morphology, air quality, and machine learning. I am sincerely grateful to my supervisor, &lt;strong&gt;Dr Chengzhi Peng&lt;/strong&gt;, and co-supervisor, &lt;strong&gt;Dr Michael Smith&lt;/strong&gt;, for their continuous guidance, encouragement, and support throughout this period.&lt;/p&gt;
 &lt;p&gt;I would also like to thank my viva examiners, &lt;strong&gt;Professor Anil Namdeo&lt;/strong&gt; and &lt;strong&gt;Dr Paul Brindley&lt;/strong&gt;, for their insightful feedback and thoughtful suggestions on the future development of my work.&lt;/p&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>🎓 Recognised as Fellow of the Higher Education Academy (FHEA)</title>
-      <link>http://localhost:1313/post/04-fhea/</link>
+      <link>https://mengxueyao.com/post/04-fhea/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/04-fhea/</guid>
+      <guid>https://mengxueyao.com/post/04-fhea/</guid>
       <description>&lt;p&gt;In May 2025, I was recognised as a Fellow of the Higher Education Academy (FHEA) by Advance HE. This professional recognition reflects my sustained contribution to higher education teaching and learning, particularly in interdisciplinary modules across architecture, urban planning, and urban data analysis.&lt;/p&gt;
 &lt;p&gt;Building on my earlier recognition as an Associate Fellow (AFHEA), the FHEA status affirms my commitment to inclusive, student-focused, and research-informed teaching practice, aligned with the UK Professional Standards Framework (UKPSF).&lt;/p&gt;
 </description>
@@ -36,9 +36,9 @@
     
     <item>
       <title>🎓 Recognised as Associate Fellow of the Higher Education Academy (AFHEA)</title>
-      <link>http://localhost:1313/post/02-afhea/</link>
+      <link>https://mengxueyao.com/post/02-afhea/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/02-afhea/</guid>
+      <guid>https://mengxueyao.com/post/02-afhea/</guid>
       <description>&lt;p&gt;In January 2024, I was recognised as an Associate Fellow of the Higher Education Academy (AFHEA) by Advance HE. This professional recognition reflects my experience supporting teaching and learning across undergraduate and postgraduate modules at the University of Sheffield, particularly in architecture, planning, and GIS-related subjects.&lt;/p&gt;
 &lt;p&gt;The award demonstrates my commitment to effective, student-focused teaching and aligns with the UK Professional Standards Framework (UKPSF).&lt;/p&gt;
 </description>
